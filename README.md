@@ -1,4 +1,6 @@
-# Bubble sort algorithm 🫧
+# آموزش الگوریتم های مرتب سازی به همراه مثال 
+در این ریپازیتوری سعی بر آموزش الگوریتم های مهم مرتب سازی به صورت تصویری و متنی و مثال محور کرده ایم که امید وارم برای شما مفید باشد 
 
-Bubble sort 🫧 is a simple sorting algorithm. This sorting algorithm is a comparison-based algorithm in which each pair of adjacent elements is compared and swapped if they are not in the desired order. This algorithm is not optimal for large data sets because the mean and worst case complexity is equal to (Ο(n2), where n is the number of items to be sorted.
-
+# الگوریتم های تدریس شده 
+- مرتب سازی حبابی
+- مرتب سازی درجی 
